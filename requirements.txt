@@ -1,0 +1,5 @@
+streamlit
+streamlit-autorefresh
+azure-ai-vision-imageanalysis
+streamlit-js-eval
+streamlit-js-eval
